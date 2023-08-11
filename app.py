@@ -5,7 +5,6 @@ import time
 import uuid
 from io import BytesIO
 from pathlib import Path
-import pyautogui
 import numpy as np
 import pandas as pd
 import streamlit as st
